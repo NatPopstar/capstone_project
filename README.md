@@ -7,3 +7,4 @@ Coursera Activities, project artifacts
 4. [Project Plan](https://docs.google.com/spreadsheets/d/1BKhomcMTawrOQto7yHJYX9NsW5gMpK7aMh6xFEvqmyY/edit?usp=sharing)
 5. [Retrospective Review](https://docs.google.com/spreadsheets/d/1k6OWtkYPpQdzk8r2mjO11OE-WloYz2CvqFvrllNFjRU/edit?usp=sharing)
 6. [Closeout Report](https://docs.google.com/document/d/1QVz-Upm-Q7ZuOOW_scgje5t1lwAQ4GRy2sVpnR2RDYY/edit?usp=sharing)
+7. [Impact Reporting](https://docs.google.com/presentation/d/1jysAKS_DZj4s-dgbUD8bMexJiZNNU6QNfNxDTU7GpHs/edit?usp=sharing)
