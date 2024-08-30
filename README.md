@@ -6,4 +6,4 @@ Coursera Activities, project artifacts
 3. [E-mail: Coalition building](https://docs.google.com/document/d/1HVnPci7VbBwkLSlwUzdQj-ppHHwLDd5Rv2cjzQYA0FU/edit?usp=sharing)
 4. [Project Plan](https://docs.google.com/spreadsheets/d/1BKhomcMTawrOQto7yHJYX9NsW5gMpK7aMh6xFEvqmyY/edit?usp=sharing)
 5. [Retrospective Review](https://docs.google.com/spreadsheets/d/1k6OWtkYPpQdzk8r2mjO11OE-WloYz2CvqFvrllNFjRU/edit?usp=sharing)
-6. [Project Closer](https://docs.google.com/document/d/1QVz-Upm-Q7ZuOOW_scgje5t1lwAQ4GRy2sVpnR2RDYY/edit?usp=sharing)
+6. [Closeout Report](https://docs.google.com/document/d/1QVz-Upm-Q7ZuOOW_scgje5t1lwAQ4GRy2sVpnR2RDYY/edit?usp=sharing)
